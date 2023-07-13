@@ -89,7 +89,6 @@ melhor maneira
     "editor.semanticHighlighting.enabled": true,
     "editor.fontFamily": "JetBrains Mono",
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-    "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true,
     "notebook.formatOnSave.enabled": true,
     "python.formatting.provider": "black",
