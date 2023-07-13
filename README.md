@@ -1,5 +1,10 @@
 # JalasoftTemplate
 
+## Sumário
+ - [Configuração Facilitada](#configuração-facilitada)
+ - [Configuração Adicionais](#configurações-adicionais)
+ - [Após Configurar Extensões](#após-configurar-extensões)
+
 ## Configuração Facilitada
 
 ### Clique no icone de configuração (Rodinha dentada)
