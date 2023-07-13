@@ -5,6 +5,7 @@
 - [Configuração Facilitada](#configuração-facilitada)
 - [Configuração Adicionais](#configurações-adicionais)
 - [Após Configurar Extensões](#após-configurar-extensões)
+- [Dicas Python](#cola-base-para-python)
 
 ## Configuração Facilitada
 
