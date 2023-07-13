@@ -1,0 +1,18 @@
+{
+	"recommendations": [
+		//Visual
+		"miguelsolorio.symbols",
+        "miguelsolorio.fluent-icons",
+        "unthrottled.doki-theme",
+		//Usual
+		"ms-python.black-formatter",
+		"charliermarsh.ruff",
+		"donjayamanne.python-environment-manager",
+		"ms-python.vscode-pylance",
+		"ms-python.vscode-pylance",
+		"ms-python.python",
+		"eamodio.gitlens",
+		"usernamehw.errorlens",
+		"ms-vsliveshare.vsliveshare"
+	],
+}
