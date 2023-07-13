@@ -1,9 +1,10 @@
 # JalasoftTemplate
 
 ## Sumário
- - [Configuração Facilitada](#configuração-facilitada)
- - [Configuração Adicionais](#configurações-adicionais)
- - [Após Configurar Extensões](#após-configurar-extensões)
+
+- [Configuração Facilitada](#configuração-facilitada)
+- [Configuração Adicionais](#configurações-adicionais)
+- [Após Configurar Extensões](#após-configurar-extensões)
 
 ## Configuração Facilitada
 
@@ -57,21 +58,21 @@
 
 ## Após Configurar Extensões
 
-- Após terminar de configurar as extensões base, vamos configurar o melhor cenario para seu `VsCode` 
+- Após terminar de configurar as extensões base, vamos configurar o melhor cenario para seu `VsCode`
 conseguir te alertar de erros no seu código e seu codigo, além de conseguir formatar ele de uma melhor
 melhor maneira
 
 ### Digite `Ctrl + Shift + P` para abrir o menu de opções do `VsCode` e digite `json`
-### Clique na opção que abra o profile settings 
+
+### Clique na opção que abra o profile settings
+
 ### Obs: Caso você não tenha a opções de perfis no vsCode, click na default settings
 
 ![Alt text](/Assets/image-5.png)
 
-
-### Vai abrir esse arquivo desse jeito no seu `VsCode` 
+### Vai abrir esse arquivo desse jeito no seu `VsCode`
 
 ![Alt text](/Assets/image-6.png)
-
 
 ### Copie o que está dentro das chaves, e cole no arquivo do seu `VsCode` abaixo do conteúdo que já tem lá
 
@@ -96,20 +97,19 @@ melhor maneira
 }
 ```
 
-### Obs: Caso o arquivo apresente alguns erros em amarelo como os a seguir: 
+### Obs: Caso o arquivo apresente alguns erros em amarelo como os a seguir
 
 ![Alt text](/Assets/image-7.png)
 
-
-### Selecione as primeiras opções como o exemplo a seguir e delete: 
+### Selecione as primeiras opções como o exemplo a seguir e delete
 
 ![Alt text](Assets/image-8.png)
 
+### OBS: Caso fique alguns valores em amarelo, como o exemplo a seguir
 
-### OBS: Caso fique alguns valores em amarelo, como o exemplo a seguir:  
 ![Alt text](Assets/image-9.png)
 
-### Instale as seguintes extensões: 
+### Instale as seguintes extensões
 
 ![Alt text](/Assets/image-10.png)
 
