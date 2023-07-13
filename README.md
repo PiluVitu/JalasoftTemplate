@@ -114,3 +114,45 @@ melhor maneira
 ![Alt text](/Assets/image-10.png)
 
 - Elas servem para personalizar o seu `VsCode` e tornar mais facil de ler o seu código
+
+## Cola base para Python
+
+### Ativando scripts no windows
+
+- Lembre-se de iniciar o powershell em modo adiministrador
+
+```powershell
+  Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
+```
+
+- Digite s para confirmar as alterações
+
+### Instalando virtualenv
+
+```shell
+pip install virtualenv
+```
+
+### Criando uma virtualenv
+
+```shell
+virtualenv nome_da_virtualenv
+```
+
+### Iniciando uma virtualenv
+
+```shell
+nome_da_virtualenv/Scripts/Activate
+```
+
+### Desativando uma virtualenv
+
+```shell
+nomedoarquivo deactivate
+```
+
+### Instalando um pacote dentro da virtualEnv
+
+```shell
+pip install nome_do_pacote
+```
